@@ -3,10 +3,10 @@
 Pour cette semaine 2, 
 
 *J'ai lu les différentes documentations sur :
-  '*les bases du HTML/CSS'
-  '*l'ergonomie'
-  '*le responsive design'
-  '*les normes d'accessibilité'
+  `*les bases du HTML/CSS`
+  `*l'ergonomie`
+  `*le responsive design`
+  `*les normes d'accessibilité`
 
 *J'ai refait les bases du HTML sur Codecademy, mon lien :
 
